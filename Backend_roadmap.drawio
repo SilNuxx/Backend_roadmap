@@ -1,0 +1,460 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 YaBrowser/24.10.0.0 Safari/537.36" version="24.8.6" pages="8">
+  <diagram name="Backend-development" id="lFtmln0PKRnWR35-8tew">
+    <mxGraphModel dx="728" dy="408" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Nd3CpeXO5HwF8eBjBM4l-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;curved=1;" parent="1" source="Nd3CpeXO5HwF8eBjBM4l-1" target="Nd3CpeXO5HwF8eBjBM4l-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Nd3CpeXO5HwF8eBjBM4l-1" value="Backend&lt;div style=&quot;font-size: 24px;&quot;&gt;(Start)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" parent="1" vertex="1">
+          <mxGeometry x="360" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Nd3CpeXO5HwF8eBjBM4l-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;dashed=1;dashPattern=8 8;" parent="1" source="Nd3CpeXO5HwF8eBjBM4l-2" target="Nd3CpeXO5HwF8eBjBM4l-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="480" y="145" />
+              <mxPoint x="480" y="65" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Nd3CpeXO5HwF8eBjBM4l-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;dashed=1;dashPattern=8 8;" parent="1" source="Nd3CpeXO5HwF8eBjBM4l-2" target="Nd3CpeXO5HwF8eBjBM4l-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="490" y="145" />
+              <mxPoint x="490" y="105" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Nd3CpeXO5HwF8eBjBM4l-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;dashed=1;dashPattern=8 8;" parent="1" source="Nd3CpeXO5HwF8eBjBM4l-2" target="Nd3CpeXO5HwF8eBjBM4l-9" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="570" y="145" />
+              <mxPoint x="570" y="145" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Nd3CpeXO5HwF8eBjBM4l-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;dashed=1;dashPattern=8 8;" parent="1" source="Nd3CpeXO5HwF8eBjBM4l-2" target="Nd3CpeXO5HwF8eBjBM4l-10" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="500" y="145" />
+              <mxPoint x="500" y="185" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Nd3CpeXO5HwF8eBjBM4l-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;dashed=1;dashPattern=8 8;" parent="1" source="Nd3CpeXO5HwF8eBjBM4l-2" target="Nd3CpeXO5HwF8eBjBM4l-11" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="490" y="145" />
+              <mxPoint x="490" y="225" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Nd3CpeXO5HwF8eBjBM4l-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;dashed=1;dashPattern=8 8;" parent="1" source="Nd3CpeXO5HwF8eBjBM4l-2" target="Nd3CpeXO5HwF8eBjBM4l-12" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="480" y="145" />
+              <mxPoint x="480" y="265" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Nd3CpeXO5HwF8eBjBM4l-2" value="Интернет" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="380" y="130" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Nd3CpeXO5HwF8eBjBM4l-4" value="&lt;a href=&quot;data:page/id,gjIQfK-AUlyAVEfe-68j&quot;&gt;Как работает интернет?&lt;/a&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="625" y="50" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Nd3CpeXO5HwF8eBjBM4l-6" value="&lt;a href=&quot;data:page/id,2p5OrI0YdP4hfsZrnalN&quot;&gt;Что такое HTTP&lt;/a&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="650" y="90" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Nd3CpeXO5HwF8eBjBM4l-9" value="&lt;a href=&quot;data:page/id,TtSuEUMHXBK_KAqy5wiN&quot;&gt;Что такое &quot;доменное имя&quot;&lt;/a&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="620" y="130" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Nd3CpeXO5HwF8eBjBM4l-10" value="&lt;a href=&quot;data:page/id,E9V-HJoUSQ1tUCjqizQq&quot;&gt;Что такое хостинг&lt;/a&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=none;direction=west;" parent="1" vertex="1">
+          <mxGeometry x="645" y="170" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Nd3CpeXO5HwF8eBjBM4l-11" value="&lt;a href=&quot;data:page/id,GP6EsbkoBCwMtjVxNCjg&quot;&gt;DNS и как он работает&lt;/a&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="630" y="210" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Nd3CpeXO5HwF8eBjBM4l-12" value="&lt;a href=&quot;data:page/id,FsPPVIT0tUGxpqEr8G42&quot;&gt;Браузеры и как они работают&lt;/a&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="610" y="250" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B-EZCs5WLkvo5rVCoN1Q-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;endArrow=none;endFill=0;dashed=1;" parent="1" source="B-EZCs5WLkvo5rVCoN1Q-1" target="B-EZCs5WLkvo5rVCoN1Q-7" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="200" y="215" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B-EZCs5WLkvo5rVCoN1Q-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;endArrow=none;endFill=0;" parent="1" source="B-EZCs5WLkvo5rVCoN1Q-1" target="B-EZCs5WLkvo5rVCoN1Q-13" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="280" y="335" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B-EZCs5WLkvo5rVCoN1Q-1" value="Выбери язык" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="230" y="200" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B-EZCs5WLkvo5rVCoN1Q-2" value="" style="curved=1;endArrow=none;html=1;rounded=0;endFill=0;" parent="1" source="Nd3CpeXO5HwF8eBjBM4l-2" target="B-EZCs5WLkvo5rVCoN1Q-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="240" as="sourcePoint" />
+            <mxPoint x="400" y="190" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="400" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B-EZCs5WLkvo5rVCoN1Q-11" value="" style="group;strokeColor=default;autosize=0;" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="50" y="100" width="150" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="B-EZCs5WLkvo5rVCoN1Q-3" value="JavaScript" style="rounded=0;whiteSpace=wrap;html=1;autosize=0;" parent="B-EZCs5WLkvo5rVCoN1Q-11" vertex="1">
+          <mxGeometry width="69.23076923076923" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="B-EZCs5WLkvo5rVCoN1Q-4" value="Go" style="rounded=0;whiteSpace=wrap;html=1;autosize=0;" parent="B-EZCs5WLkvo5rVCoN1Q-11" vertex="1">
+          <mxGeometry x="80.76923076923076" width="69.23076923076923" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="B-EZCs5WLkvo5rVCoN1Q-5" value="Python" style="rounded=0;whiteSpace=wrap;html=1;autosize=0;" parent="B-EZCs5WLkvo5rVCoN1Q-11" vertex="1">
+          <mxGeometry y="45.33333333333333" width="69.23076923076923" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="B-EZCs5WLkvo5rVCoN1Q-6" value="Ruby" style="rounded=0;whiteSpace=wrap;html=1;autosize=0;" parent="B-EZCs5WLkvo5rVCoN1Q-11" vertex="1">
+          <mxGeometry x="80.76923076923076" y="45.33333333333333" width="69.23076923076923" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="B-EZCs5WLkvo5rVCoN1Q-7" value="C#" style="rounded=0;whiteSpace=wrap;html=1;autosize=0;" parent="B-EZCs5WLkvo5rVCoN1Q-11" vertex="1">
+          <mxGeometry x="80.76923076923076" y="90.66666666666666" width="69.23076923076923" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="B-EZCs5WLkvo5rVCoN1Q-8" value="Java" style="rounded=0;whiteSpace=wrap;html=1;autosize=0;" parent="B-EZCs5WLkvo5rVCoN1Q-11" vertex="1">
+          <mxGeometry y="90.66666666666666" width="69.23076923076923" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="B-EZCs5WLkvo5rVCoN1Q-9" value="PHP" style="rounded=0;whiteSpace=wrap;html=1;autosize=0;" parent="B-EZCs5WLkvo5rVCoN1Q-11" vertex="1">
+          <mxGeometry y="136" width="69.23076923076923" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="B-EZCs5WLkvo5rVCoN1Q-10" value="Rust" style="rounded=0;whiteSpace=wrap;html=1;autosize=0;" parent="B-EZCs5WLkvo5rVCoN1Q-11" vertex="1">
+          <mxGeometry x="80.77" y="136" width="69.23" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="B-EZCs5WLkvo5rVCoN1Q-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;dashed=1;" parent="1" source="B-EZCs5WLkvo5rVCoN1Q-13" target="B-EZCs5WLkvo5rVCoN1Q-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B-EZCs5WLkvo5rVCoN1Q-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;endArrow=none;endFill=0;" parent="1" source="B-EZCs5WLkvo5rVCoN1Q-13" target="B-EZCs5WLkvo5rVCoN1Q-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B-EZCs5WLkvo5rVCoN1Q-13" value="Система контроля версий" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="335" y="320" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B-EZCs5WLkvo5rVCoN1Q-15" value="&lt;a href=&quot;data:page/id,WSAWSptuE2kGXvlvXDkj&quot;&gt;Git&lt;/a&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="400" y="250" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B-EZCs5WLkvo5rVCoN1Q-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;curved=1;dashed=1;" parent="1" source="B-EZCs5WLkvo5rVCoN1Q-17" target="B-EZCs5WLkvo5rVCoN1Q-30" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B-EZCs5WLkvo5rVCoN1Q-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;curved=1;dashed=1;" parent="1" source="B-EZCs5WLkvo5rVCoN1Q-17" target="B-EZCs5WLkvo5rVCoN1Q-29" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B-EZCs5WLkvo5rVCoN1Q-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;endArrow=none;endFill=0;" parent="1" source="B-EZCs5WLkvo5rVCoN1Q-17" target="B-EZCs5WLkvo5rVCoN1Q-34" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B-EZCs5WLkvo5rVCoN1Q-17" value="Сервис хранения репозиториев" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="190" y="430" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B-EZCs5WLkvo5rVCoN1Q-28" value="GitHub" style="rounded=0;whiteSpace=wrap;html=1;autosize=0;" parent="1" vertex="1">
+          <mxGeometry x="80" y="320" width="69.23076923076923" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="B-EZCs5WLkvo5rVCoN1Q-29" value="GitLab" style="rounded=0;whiteSpace=wrap;html=1;autosize=0;" parent="1" vertex="1">
+          <mxGeometry x="80" y="354" width="69.23076923076923" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="B-EZCs5WLkvo5rVCoN1Q-30" value="Bitbucket" style="rounded=0;whiteSpace=wrap;html=1;autosize=0;" parent="1" vertex="1">
+          <mxGeometry x="80" y="498" width="69.23076923076923" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="B-EZCs5WLkvo5rVCoN1Q-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;dashed=1;" parent="1" source="B-EZCs5WLkvo5rVCoN1Q-34" target="B-EZCs5WLkvo5rVCoN1Q-38" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B-EZCs5WLkvo5rVCoN1Q-34" value="Реляционные базы данных" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="470" y="500" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B-EZCs5WLkvo5rVCoN1Q-36" value="MySQL" style="rounded=0;whiteSpace=wrap;html=1;autosize=0;" parent="1" vertex="1">
+          <mxGeometry x="730.77" y="430" width="69.23076923076923" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="B-EZCs5WLkvo5rVCoN1Q-37" value="MariaDB" style="rounded=0;whiteSpace=wrap;html=1;autosize=0;" parent="1" vertex="1">
+          <mxGeometry x="730.77" y="464" width="69.23076923076923" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="B-EZCs5WLkvo5rVCoN1Q-38" value="MS SQL" style="rounded=0;whiteSpace=wrap;html=1;autosize=0;" parent="1" vertex="1">
+          <mxGeometry x="730.77" y="498" width="69.23076923076923" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="B-EZCs5WLkvo5rVCoN1Q-39" value="Oracle" style="rounded=0;whiteSpace=wrap;html=1;autosize=0;" parent="1" vertex="1">
+          <mxGeometry x="730.77" y="532" width="69.23076923076923" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="B-EZCs5WLkvo5rVCoN1Q-40" value="SQLite" style="rounded=0;whiteSpace=wrap;html=1;autosize=0;" parent="1" vertex="1">
+          <mxGeometry x="730.77" y="566" width="69.23076923076923" height="34" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="gjIQfK-AUlyAVEfe-68j" name="Internet">
+    <mxGraphModel dx="338" dy="1821" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="v-SXhvqObqw1CL6GEIxo-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="WO7Cmddg6skdDBgad9FQ-1" target="v-SXhvqObqw1CL6GEIxo-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WO7Cmddg6skdDBgad9FQ-1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Интернет&lt;/h1&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Глобальная сеть взаимосвязанных компьютеров, которые общаются между собой использую стандартизированные протоколы, в основном TCP/IP. Когда вы запрашиваете веб-страницу, ваше устройство отправляет пакет данных через вашего интернет провайдера(ISP), DNS-серверу, который преобразует доменное имя веб-сайта в IP-адрес. Тогда пакеты маршрутизируются между различными сетями (используя маршрутизаторы и коммутаторы) до конечного сервера, который обрабатывает запрос и отправляет назад ответ. Этот взаимный обмен, позволяет передавать данные, такие как: веб-страницы, электронная почта и файлы, превращая Интернет в динамическую децентрализованную систему глобальной коммуникации&lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;strokeColor=default;" parent="1" vertex="1">
+          <mxGeometry x="877.5" y="40" width="275" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="v-SXhvqObqw1CL6GEIxo-1" value="Список материалов" style="shape=table;startSize=20;container=1;collapsible=0;childLayout=tableLayout;" parent="1" vertex="1">
+          <mxGeometry x="840" y="400" width="350" height="289" as="geometry" />
+        </mxCell>
+        <mxCell id="v-SXhvqObqw1CL6GEIxo-2" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="v-SXhvqObqw1CL6GEIxo-1" vertex="1">
+          <mxGeometry y="20" width="350" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="v-SXhvqObqw1CL6GEIxo-3" value="Название/ссылка" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="v-SXhvqObqw1CL6GEIxo-2" vertex="1">
+          <mxGeometry width="180" height="20" as="geometry">
+            <mxRectangle width="180" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v-SXhvqObqw1CL6GEIxo-4" value="Платформа" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="v-SXhvqObqw1CL6GEIxo-2" vertex="1">
+          <mxGeometry x="180" width="170" height="20" as="geometry">
+            <mxRectangle width="170" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v-SXhvqObqw1CL6GEIxo-5" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="v-SXhvqObqw1CL6GEIxo-1" vertex="1">
+          <mxGeometry y="40" width="350" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="v-SXhvqObqw1CL6GEIxo-6" value="&lt;a style=&quot;&quot; href=&quot;https://roadmap.sh/guides/what-is-internet&quot;&gt;Введение в Интернет&lt;/a&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" parent="v-SXhvqObqw1CL6GEIxo-5" vertex="1">
+          <mxGeometry width="180" height="42" as="geometry">
+            <mxRectangle width="180" height="42" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v-SXhvqObqw1CL6GEIxo-7" value="roadmap.sh" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="v-SXhvqObqw1CL6GEIxo-5" vertex="1">
+          <mxGeometry x="180" width="170" height="42" as="geometry">
+            <mxRectangle width="170" height="42" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v-SXhvqObqw1CL6GEIxo-8" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="v-SXhvqObqw1CL6GEIxo-1" vertex="1">
+          <mxGeometry y="82" width="350" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="v-SXhvqObqw1CL6GEIxo-9" value="&lt;a style=&quot;&quot; href=&quot;https://cs.fyi/guide/how-does-internet-work&quot;&gt;Как работает Интернет?&lt;/a&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" parent="v-SXhvqObqw1CL6GEIxo-8" vertex="1">
+          <mxGeometry width="180" height="41" as="geometry">
+            <mxRectangle width="180" height="41" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v-SXhvqObqw1CL6GEIxo-10" value="cs.fyi" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="v-SXhvqObqw1CL6GEIxo-8" vertex="1">
+          <mxGeometry x="180" width="170" height="41" as="geometry">
+            <mxRectangle width="170" height="41" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v-SXhvqObqw1CL6GEIxo-11" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="v-SXhvqObqw1CL6GEIxo-1" vertex="1">
+          <mxGeometry y="123" width="350" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="v-SXhvqObqw1CL6GEIxo-12" value="&lt;a style=&quot;&quot; href=&quot;https://www.vox.com/2014/6/16/18076282/the-internet&quot;&gt;Интернет, объяснил&lt;/a&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" parent="v-SXhvqObqw1CL6GEIxo-11" vertex="1">
+          <mxGeometry width="180" height="42" as="geometry">
+            <mxRectangle width="180" height="42" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v-SXhvqObqw1CL6GEIxo-13" value="www.vox.com" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="v-SXhvqObqw1CL6GEIxo-11" vertex="1">
+          <mxGeometry x="180" width="170" height="42" as="geometry">
+            <mxRectangle width="170" height="42" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v-SXhvqObqw1CL6GEIxo-14" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="v-SXhvqObqw1CL6GEIxo-1" vertex="1">
+          <mxGeometry y="165" width="350" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="v-SXhvqObqw1CL6GEIxo-15" value="&lt;a style=&quot;&quot; href=&quot;http://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm&quot;&gt;Как работает Интернет?&lt;/a&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" parent="v-SXhvqObqw1CL6GEIxo-14" vertex="1">
+          <mxGeometry width="180" height="41" as="geometry">
+            <mxRectangle width="180" height="41" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v-SXhvqObqw1CL6GEIxo-16" value="web.stanford.edu" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="v-SXhvqObqw1CL6GEIxo-14" vertex="1">
+          <mxGeometry x="180" width="170" height="41" as="geometry">
+            <mxRectangle width="170" height="41" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v-SXhvqObqw1CL6GEIxo-17" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="v-SXhvqObqw1CL6GEIxo-1" vertex="1">
+          <mxGeometry y="206" width="350" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="v-SXhvqObqw1CL6GEIxo-18" value="&lt;a style=&quot;&quot; href=&quot;https://www.youtube.com/watch?v=x3c1ih2NJEg&quot;&gt;Как работает Интернет?&lt;/a&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" parent="v-SXhvqObqw1CL6GEIxo-17" vertex="1">
+          <mxGeometry width="180" height="42" as="geometry">
+            <mxRectangle width="180" height="42" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v-SXhvqObqw1CL6GEIxo-19" value="www.youtube.com" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="v-SXhvqObqw1CL6GEIxo-17" vertex="1">
+          <mxGeometry x="180" width="170" height="42" as="geometry">
+            <mxRectangle width="170" height="42" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v-SXhvqObqw1CL6GEIxo-20" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="v-SXhvqObqw1CL6GEIxo-1" vertex="1">
+          <mxGeometry y="248" width="350" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="v-SXhvqObqw1CL6GEIxo-21" value="&lt;a style=&quot;&quot; href=&quot;https://www.youtube.com/watch?v=zN8YNNHcaZc&quot;&gt;Как работает Интернет? (Полный курс)&lt;/a&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" parent="v-SXhvqObqw1CL6GEIxo-20" vertex="1">
+          <mxGeometry width="180" height="41" as="geometry">
+            <mxRectangle width="180" height="41" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v-SXhvqObqw1CL6GEIxo-22" value="www.youtube.com" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="v-SXhvqObqw1CL6GEIxo-20" vertex="1">
+          <mxGeometry x="180" width="170" height="41" as="geometry">
+            <mxRectangle width="170" height="41" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W5ZtIg2RAW5n68BxzbCN-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lySrOKCEzgfiMbjDivJ5-2" target="W5ZtIg2RAW5n68BxzbCN-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lySrOKCEzgfiMbjDivJ5-2" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Введение в интернет&lt;/h1&gt;&lt;div&gt;С момента взрывного роста веб-приложений, понимание того как работает интернет принесёт выгоду каждому разработчику.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;h2&gt;Что такое интернет?&lt;/h2&gt;&lt;div&gt;Интернет - это глобальная сеть компьютеров соединённых друг с другом, которые общаются через стандартизированный набор протоколов.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Видео 1&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;h2&gt;Провода, кабели и Wi-Fi&lt;/h2&gt;&lt;div&gt;Информация в Интернете перемещается от одного компьютера к другому в виде маленьких кусочков на различных носителях, включая Ethernet-кабели, оптоволоконные кабели и беспроводные сигналы(т.е радио-волны).&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Видео 2&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;strokeColor=default;" parent="1" vertex="1">
+          <mxGeometry x="1180" y="-70" width="330" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="W5ZtIg2RAW5n68BxzbCN-2" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Видео 1 (What is the Internet?)&lt;/h1&gt;&lt;h2&gt;Что такое Интернет?&lt;/h2&gt;&lt;p&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Большинство людей не имеют представления о том, откуда у нас Интернет. И это не так важно, им не это нужно. Это то же самое, что спросить, кто придумал шариковую ручку, или унитаз, или застежку молнию. Все эти вещи мы используем каждый день, и даже не задумываемся о том, что кто-то их изобрел. Так же и с Интернетом.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial; white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Много лет назад, в начале 1970-х годов, мой партнер Боб Кан и я начали работать над дизайном, который мы теперь называем &quot;Интернет&quot;. Это был результат ещё одного эксперимента под названием ARPANET, что означает &quot;Сеть управления перспективных исследовательских проектов&quot;(Advanced Research Projects Agency NETwork).&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Это был проект Департамента обороны. Пол Берен хотел выяснить, как построить системы связи, которые смогут пережить ядерную атаку. Поэтому он придумал разбивать сообщение на блоки и отправлять их как можно скорее в каждом возможном направлении через сегменты сети. Поэтому мы построили то, что позже стало общенациональной экспериментальной пакетной сетью, и это сработало.&lt;/p&gt;&lt;h2&gt;Кто-нибудь возглавляет Интернет?&lt;/h2&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;На самом деле - никто. Но можно также сказать - все. В реальности ответ заключается в том, что интернет состоит из невероятного множества независимо управляемых сетей. Самое интересное в системе - то, что она полностью разделена на части. Без центра управления, решающего как именно маршрутизировать пакеты, или где части сети располагаются или даже кто взаимодействует и с кем. Все это - внутренние решения, принимаемые операторами независимо.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Все они нацелены на обеспечение сквозного подключения каждой части сети, поскольку её преимуществом является возможность взаимодействие любых двух устройств; так же, как если бы вы имели звонить на любой другой телефон в мире.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Ничего подобного ранее создано не было. Мысль о том, что ваши знания могу быть полезны кому-то другому или наоборот, здорово мотивирует обмениваться информацией. Кстати, именно так наука и движется вперёд: люди делятся друг с другом информацией.&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Таким образом, для человечества это возможность придумывать новые способы применения Интернета, возможно, создавать приложения для мобильного телефона, и, возможно, становиться частью дальнейшего роста инфраструктуры сети, чтобы донести это до людей, не имеющим доступа к этим возможностям; или просто пользоваться ею постоянно.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Вы не можете избежать контакта с интернетом, так почему бы не познакомиться с ним и не начать пользоваться.&lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;strokeColor=default;" parent="1" vertex="1">
+          <mxGeometry x="851" y="-920" width="390" height="810" as="geometry" />
+        </mxCell>
+        <mxCell id="W5ZtIg2RAW5n68BxzbCN-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="v-SXhvqObqw1CL6GEIxo-5" target="lySrOKCEzgfiMbjDivJ5-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="2p5OrI0YdP4hfsZrnalN" name="HTTP">
+    <mxGraphModel dx="1115" dy="1087" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ItHWE_OvXxptRyyZsgmp-1" value="Список материалов" style="shape=table;startSize=20;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+          <mxGeometry x="840" y="410" width="350" height="289" as="geometry" />
+        </mxCell>
+        <mxCell id="ItHWE_OvXxptRyyZsgmp-2" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ItHWE_OvXxptRyyZsgmp-1">
+          <mxGeometry y="20" width="350" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ItHWE_OvXxptRyyZsgmp-3" value="Название/ссылка" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="ItHWE_OvXxptRyyZsgmp-2">
+          <mxGeometry width="180" height="20" as="geometry">
+            <mxRectangle width="180" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ItHWE_OvXxptRyyZsgmp-4" value="Платформа" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="ItHWE_OvXxptRyyZsgmp-2">
+          <mxGeometry x="180" width="170" height="20" as="geometry">
+            <mxRectangle width="170" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ItHWE_OvXxptRyyZsgmp-5" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ItHWE_OvXxptRyyZsgmp-1">
+          <mxGeometry y="40" width="350" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="ItHWE_OvXxptRyyZsgmp-6" value="&lt;a href=&quot;https://www.youtube.com/watch?v=2JYT5f2isg4&quot;&gt;Полный курс по HTTP-сетям&amp;nbsp;&lt;/a&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" vertex="1" parent="ItHWE_OvXxptRyyZsgmp-5">
+          <mxGeometry width="180" height="42" as="geometry">
+            <mxRectangle width="180" height="42" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ItHWE_OvXxptRyyZsgmp-7" value="www.youtube.com" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="ItHWE_OvXxptRyyZsgmp-5">
+          <mxGeometry x="180" width="170" height="42" as="geometry">
+            <mxRectangle width="170" height="42" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ItHWE_OvXxptRyyZsgmp-8" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ItHWE_OvXxptRyyZsgmp-1">
+          <mxGeometry y="82" width="350" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="ItHWE_OvXxptRyyZsgmp-9" value="&lt;a href=&quot;https://www.cloudflare.com/en-gb/learning/ddos/glossary/hypertext-transfer-protocol-http/&quot;&gt;Что такое HTTP?&lt;/a&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" vertex="1" parent="ItHWE_OvXxptRyyZsgmp-8">
+          <mxGeometry width="180" height="41" as="geometry">
+            <mxRectangle width="180" height="41" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ItHWE_OvXxptRyyZsgmp-10" value="www.cloudflare.com" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="ItHWE_OvXxptRyyZsgmp-8">
+          <mxGeometry x="180" width="170" height="41" as="geometry">
+            <mxRectangle width="170" height="41" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ItHWE_OvXxptRyyZsgmp-11" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ItHWE_OvXxptRyyZsgmp-1">
+          <mxGeometry y="123" width="350" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="ItHWE_OvXxptRyyZsgmp-12" value="&lt;a href=&quot;https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview&quot;&gt;Краткий обзор HTTP&lt;/a&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" vertex="1" parent="ItHWE_OvXxptRyyZsgmp-11">
+          <mxGeometry width="180" height="42" as="geometry">
+            <mxRectangle width="180" height="42" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ItHWE_OvXxptRyyZsgmp-13" value="developer.mozilla.org" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="ItHWE_OvXxptRyyZsgmp-11">
+          <mxGeometry x="180" width="170" height="42" as="geometry">
+            <mxRectangle width="170" height="42" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ItHWE_OvXxptRyyZsgmp-14" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ItHWE_OvXxptRyyZsgmp-1">
+          <mxGeometry y="165" width="350" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="ItHWE_OvXxptRyyZsgmp-15" value="&lt;a href=&quot;https://www.smashingmagazine.com/2021/08/http3-core-concepts-part1/&quot;&gt;HTTP/3 от А до Я: Основные понятия&lt;/a&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" vertex="1" parent="ItHWE_OvXxptRyyZsgmp-14">
+          <mxGeometry width="180" height="41" as="geometry">
+            <mxRectangle width="180" height="41" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ItHWE_OvXxptRyyZsgmp-16" value="www.smashingmagazine.com" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="ItHWE_OvXxptRyyZsgmp-14">
+          <mxGeometry x="180" width="170" height="41" as="geometry">
+            <mxRectangle width="170" height="41" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ItHWE_OvXxptRyyZsgmp-17" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ItHWE_OvXxptRyyZsgmp-1">
+          <mxGeometry y="206" width="350" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="ItHWE_OvXxptRyyZsgmp-18" value="&lt;a href=&quot;https://www.youtube.com/watch?v=a-sBfyiXysI&quot;&gt;HTTP/1, HTTP/2 и HTTP/3&lt;/a&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" vertex="1" parent="ItHWE_OvXxptRyyZsgmp-17">
+          <mxGeometry width="180" height="42" as="geometry">
+            <mxRectangle width="180" height="42" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ItHWE_OvXxptRyyZsgmp-19" value="www.youtube.com" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="ItHWE_OvXxptRyyZsgmp-17">
+          <mxGeometry x="180" width="170" height="42" as="geometry">
+            <mxRectangle width="170" height="42" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ItHWE_OvXxptRyyZsgmp-20" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ItHWE_OvXxptRyyZsgmp-1">
+          <mxGeometry y="248" width="350" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="ItHWE_OvXxptRyyZsgmp-21" value="&lt;a href=&quot;https://www.youtube.com/watch?v=j9QmMEWmcfo&quot;&gt;Объяснение: SSL, TLS, HTTPS&lt;/a&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" vertex="1" parent="ItHWE_OvXxptRyyZsgmp-20">
+          <mxGeometry width="180" height="41" as="geometry">
+            <mxRectangle width="180" height="41" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ItHWE_OvXxptRyyZsgmp-22" value="www.youtube.com" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="ItHWE_OvXxptRyyZsgmp-20">
+          <mxGeometry x="180" width="170" height="41" as="geometry">
+            <mxRectangle width="170" height="41" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mokRSIYJP12AraWaCH---1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ItHWE_OvXxptRyyZsgmp-26" target="ItHWE_OvXxptRyyZsgmp-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ItHWE_OvXxptRyyZsgmp-26" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Что такое HTTP?&lt;/h1&gt;&lt;div&gt;HTTP (Протокол передачи гипертекста) - это протокол используемый для передачи гипертекста через всемирную компьютерную сеть. Он определяет как сообщение будет отформатировано и предано, и как веб-сервер или браузер должны реагировать на различные команды. HTTP работает по модели запрос-ответ: клиент (обычно веб-браузер) отправляет HTTP запрос на получение ресурсов сервера, такие как веб-страницы или файлы. Сервер, в свою очередь, отвечает возвращая запрошенный контент и HTTP код статуса, который отражает результат выполнения запроса. HTTP не сохраняет состояние, это значит что каждый запрос от клиента к серверу является независимым и не удерживает информацию о предыдущих взаимодействиях. Это формирует основу передачи данных по сети и обычно используется защищенный HTTP для зашифрованной передачи данных&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="870" y="10" width="290" height="350" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="TtSuEUMHXBK_KAqy5wiN" name="Domain Name">
+    <mxGraphModel dx="874" dy="489" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="E9V-HJoUSQ1tUCjqizQq" name="Hosting">
+    <mxGraphModel dx="874" dy="489" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="GP6EsbkoBCwMtjVxNCjg" name="DNS">
+    <mxGraphModel dx="874" dy="489" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="FsPPVIT0tUGxpqEr8G42" name="Browser">
+    <mxGraphModel dx="874" dy="489" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="WSAWSptuE2kGXvlvXDkj" name="Git">
+    <mxGraphModel dx="874" dy="489" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
