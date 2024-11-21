@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 YaBrowser/24.10.0.0 Safari/537.36" version="24.8.6" pages="8">
   <diagram name="Backend-development" id="lFtmln0PKRnWR35-8tew">
-    <mxGraphModel dx="728" dy="408" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="874" dy="489" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -114,7 +114,7 @@
         <mxCell id="B-EZCs5WLkvo5rVCoN1Q-4" value="Go" style="rounded=0;whiteSpace=wrap;html=1;autosize=0;" parent="B-EZCs5WLkvo5rVCoN1Q-11" vertex="1">
           <mxGeometry x="80.76923076923076" width="69.23076923076923" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="B-EZCs5WLkvo5rVCoN1Q-5" value="Python" style="rounded=0;whiteSpace=wrap;html=1;autosize=0;" parent="B-EZCs5WLkvo5rVCoN1Q-11" vertex="1">
+        <mxCell id="B-EZCs5WLkvo5rVCoN1Q-5" value="&lt;a href=&quot;https://github.com/SilNuxx/Backend_roadmap/blob/main/Python_roadmap.drawio&quot;&gt;Python&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;autosize=0;" parent="B-EZCs5WLkvo5rVCoN1Q-11" vertex="1">
           <mxGeometry y="45.33333333333333" width="69.23076923076923" height="34" as="geometry" />
         </mxCell>
         <mxCell id="B-EZCs5WLkvo5rVCoN1Q-6" value="Ruby" style="rounded=0;whiteSpace=wrap;html=1;autosize=0;" parent="B-EZCs5WLkvo5rVCoN1Q-11" vertex="1">
